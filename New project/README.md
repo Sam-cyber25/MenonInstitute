@@ -85,3 +85,4 @@ The following public-facing details were used from current public listings and s
 - Public rating of `4.5`
 - Timings: Monday to Friday `2:00 pm–8:00 pm`, Saturday `1:30 pm–7:00 pm`
 - Phone number: `+91 93351 71404`
+- update 1
