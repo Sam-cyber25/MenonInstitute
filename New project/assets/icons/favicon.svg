@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title>The Institute Menon</title>
-  <rect width="64" height="64" fill="#F4F8F9"/>
-  <rect x="8" y="8" width="48" height="48" fill="none" stroke="#1C3934" stroke-width="2"/>
-  <path d="M18 44V20h4l10 15 10-15h4v24h-4V27L33 40h-2L22 27v17h-4z" fill="#1C3934"/>
-  <line x1="12" y1="52" x2="52" y2="52" stroke="#C2A878" stroke-width="2"/>
-</svg>
